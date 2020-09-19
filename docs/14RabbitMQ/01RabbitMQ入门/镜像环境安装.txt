@@ -1,0 +1,6 @@
+操作步骤：
+        1. 双击vmx文件挂载虚拟机
+        2. 登录Linux系统，用户名：root，密码：itcast
+        3. 执行启动RabbitMQ命令：service rabbitmq-server start
+        4. 关闭防火墙：service iptables stop
+        5. 登录管理界面：http://ip地址:15672
